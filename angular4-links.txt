@@ -1,0 +1,26 @@
+https://seegatesite.com/angular-4-tutorial-for-beginner-with-simple-app-project/
+
+https://www.codeproject.com/Articles/1207128/Learn-Angular-Tutorial-Part
+
+https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+
+http://www.dotnetcurry.com/angularjs/1380/angular-4-grid-crud
+
+http://www.mytechthinking.in/
+
+------
+
+form validation: https://plnkr.co/edit/p0ApU2yT62jnzu9nKkng
+
+------
+
+drag n drop
+
+https://embed.plnkr.co/UOLION/
+
+http://embed.plnkr.co/JbG8Si
+
+https://embed.plnkr.co/plunk/zZx2Yh
+
+https://www.sherbrow.fr/labs/flow1.html**
+
